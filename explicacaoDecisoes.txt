@@ -1,0 +1,8 @@
+Nesse documento será explicado as decisões de estrutura e formatação que foram tomadas durante a criação do site, justificando cada 
+tag princial.
+De início, foi utlizada a tag <header> para definir o cabeçalho da página, que contém o título principal do site e o menu de navegação.
+Em seguida, foi utilizada a tag <main> para definir o conteúdo principal da página, que contém as seções de notícias e de imagens.
+A tag <section> foi utilizada para definir as seções de notícias e de imagens, e a tag <article> foi utilizada para definir cada notícia.
+A tag <aside> foi utilizada para definir a seção de imagens, e a tag <footer> foi utilizada para definir o rodapé da página.
+
+
